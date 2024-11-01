@@ -1,4 +1,4 @@
-Merge Sort vs Insertion Sort Performance Analysis
+## Merge Sort vs Insertion Sort Performance Analysis
 
 This project compares the time complexity and performance of two popular sorting algorithms: Merge Sort and Insertion Sort. The report investigates the efficiency of these algorithms across different input sizes and identifies the approximate point where Merge Sort becomes more efficient than Insertion Sort.
 
